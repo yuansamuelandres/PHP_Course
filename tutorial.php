@@ -1,3 +1,5 @@
+<!-- In the name of Allah  -->
+
 <?php
     echo 'Hello World!';
     ECHO 'Hi';
